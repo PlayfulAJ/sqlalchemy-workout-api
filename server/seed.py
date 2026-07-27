@@ -34,7 +34,7 @@ with app.app_context():
     workout1 = Workout(
         date=date(2026, 7, 27),
         duration_minutes=45,
-        notes="upper bidy workout"
+        notes="upper body workout"
     )
 
     workout2 = Workout(
